@@ -12,6 +12,7 @@
 
  /**
   * Fíjate sin embargo qué valor arroja aplicar indexOf cuando buscamos a "estrella". CONTESTA: ¿Por qué crees que sucede esto?
+  * Por que arriba pone Estrella con la E mayuscula y abajo pone estrella con la E minuscula y este esta buscando un estrella en vez de un Estrella que es lo que tenemos en la posicion 3
   */
 
   let pezPosicion2 = muchos_peces.indexOf("estrella")

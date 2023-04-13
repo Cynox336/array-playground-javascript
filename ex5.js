@@ -18,5 +18,7 @@ console.log(muchos_peces.includes("Pepitillo"))
 
 /**
  * CONTESTA: ¿Por qué el primer console log arroja el valor "true" y el segundo arroja el valor "false"?
+ * Por que Pepitillo no existe en muchos_peces
  * CONTESTA: ¿Que TIPO de dato devuelve la función 'includes' (number, string, boolean o array)? 
+ * boolean
  */
